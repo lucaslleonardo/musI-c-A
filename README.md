@@ -30,7 +30,6 @@ Sobre: <resumo da biografia no Last.fm>
 
 Deseja ouvir <nome>? (sim/não): sim
 Que clima você quer ouvir hoje? algo pra dia de chuva
-O modelo entendeu: ['melancholic', 'ambient', ...]
 
 Álbum sugerido: <álbum que mais combina com o clima>
 
